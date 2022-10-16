@@ -4,7 +4,7 @@ et Réseaux. Geek, je suis spécialisé dans l’univers Javascript depuis fin 2
 
 Mes  Technologies: 
 - 👋 HTML / CSS 
-- 👀 JAVASCRIPT
+- 👀 TYPESCRIPT / JAVASCRIPT
 - 🌱 REACT JS / REACT NATIVE /REDUX TOOLKIT /RXJS CONTEXT API
 - 💞️ EXPO CLI /REACT NATIVE CLI / PHP CODEIGNITER / SQL / MYSQL 
 - 📫 API REST / GIT BIT BUCKET / AGILE / JIRA /CONFLUENCE
